@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-process-project01",
+  "version": "1.0.0",
+  "description": "NodeJS - Process test project01.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erdinccurebal/nodejs-process-project01.git"
+  },
+  "keywords": [
+    "nodejs",
+    "process"
+  ],
+  "author": "Erdinç Cürebal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erdinccurebal/nodejs-process-project01/issues"
+  },
+  "homepage": "https://github.com/erdinccurebal/nodejs-process-project01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
